@@ -13,8 +13,9 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'getworktable', // Usually your GitHub org/user name.
-  projectName: 'getworktable.org', // Usually your repo name.
+  organizationName: 'getworktable',
+  projectName: 'getworktable.org',
+  trailingSlash: false,
 
   presets: [
     [
